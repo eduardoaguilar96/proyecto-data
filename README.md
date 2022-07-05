@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Proyecto de App en React hecha junto al Bootcamp de Data de TheBridge Sevilla
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hemos hecho una App junto a los compañeros del Bootcamp de Data que realiza una predicción según una foto enviada
 
 ## Available Scripts
 
